@@ -1,0 +1,7 @@
+name: cookieCutter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /opt/miniconda3/envs/cookieCutter

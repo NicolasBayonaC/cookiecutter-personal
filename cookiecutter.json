@@ -1,0 +1,8 @@
+{
+    "project_title": "Personal Cookiecutter",
+    "project_slug": "Cookiecutter_personal",
+    "project_description": "Entorno de trabajo OK!",
+    "project_author_name": "Nicolas Bayona",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.7"
+}
